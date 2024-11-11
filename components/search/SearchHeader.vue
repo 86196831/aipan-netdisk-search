@@ -32,7 +32,7 @@ console.log(colorMode.preference)
           <img class="w-[30px] h-[30px] md:w-[40px] md:h-[40px] cursor-pointer" src="@/assets/my-logo.png" alt="logo"
             @click="goHome()">
           <h1 class="hidden md:block text-sm font-bold cursor-pointer text-gray-700 dark:text-white" @click="goHome()">
-            爱盼-网盘资源搜索</h1>
+            08搜索-网盘资源搜索</h1>
         </div>
         <div class="w-[220px] md:w-[400px]">
           <client-only>

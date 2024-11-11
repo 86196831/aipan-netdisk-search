@@ -55,8 +55,8 @@ onMounted(async () => {
     <div class="flex flex-row items-center justify-center gap-3 mt-[80px]">
       <img class="w-20 h-20" src="@/assets/my-logo.png" alt="logo">
       <div>
-        <h1 class="text-3xl text-gray-800 font-semibold dark:text-white ">AIPAN.ME</h1>
-        <p class="text-center text-gray-600 text-sm dark:text-white">爱盼 - 资源随心，娱乐无限</p>
+        <h1 class="text-3xl text-gray-800 font-semibold dark:text-white ">810C.CN</h1>
+        <p class="text-center text-gray-600 text-sm dark:text-white">08搜索 - 资源随心，娱乐无限</p>
       </div>
     </div>
     <div class="max-w-[1240px] mx-auto mt-[20px]">
