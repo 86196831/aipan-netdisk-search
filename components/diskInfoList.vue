@@ -33,7 +33,7 @@ defineProps({
           <img class="w-[20px]" v-else-if="link.service === 'BAIDU'" src="@/assets/netdisk/baidu.png" alt="baidu">
           <img class="w-[20px]" v-else-if="link.service === 'XUNLEI'" src="@/assets/netdisk/xunlei.png" alt="xunlei">
           <img class="w-[20px]" v-else-if="link.service === 'OTHER'" src="@/assets/netdisk/xunlei.png" alt="xunlei">
-          <a class="truncate-3-lines" v-else>AIPAN</a>
+          <a class="truncate-3-lines" v-else>08搜索</a>
           <span class="dark:text-white" v-if="link.pwd">提取码：{{ link.pwd }}</span>
         </nuxt-link>
       </div>
